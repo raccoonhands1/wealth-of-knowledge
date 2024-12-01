@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "3e01608c64cd9b69",
+    "type": "split",
+    "children": [
+      {
+        "id": "5347c818f2ebbcda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46d4a8f7594b99b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中/vocab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vocab"
+            }
+          },
+          {
+            "id": "86476351587934eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DISPROOF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DISPROOF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84deb423da7d0e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b472d2aece91ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fd9abd6b9239137",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72975d3208cc572e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "270347a29b4c01d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a4dda99a1c91f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "61dae7f03b425b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e01f0ed7cfc99fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中/vocab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for vocab"
+            }
+          },
+          {
+            "id": "0808cd18f0c25b35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "中/vocab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from vocab"
+            }
+          },
+          {
+            "id": "e6b922e93840a007",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92ec437d73124027",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中/vocab.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of vocab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46d4a8f7594b99b6",
+  "lastOpenFiles": [
+    "math/DM_PROOF.md",
+    "Contradictions.md",
+    "DISPROOF.md",
+    "PROOF BY INDUCTION.md",
+    "math/Math landing page.md",
+    "中/vocab.md",
+    "Landing Page!!!.md",
+    "et/idk.md",
+    "UX/note.md",
+    "UX/apple_design.md",
+    "notes/中/vocab.txt",
+    "math 1/a.tex",
+    "notes/math/DM_PROOF.txt",
+    "notes/et/idk.txt",
+    "notes/UX/note.txt",
+    "notes/UX/apple_design.txt",
+    "中",
+    "math 1",
+    "et",
+    "UX",
+    "MathNotes/Untitled.canvas",
+    "MathNotes/Welcome.md"
+  ]
+}
