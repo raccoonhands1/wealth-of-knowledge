@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3e01608c64cd9b69",
+    "id": "60f23bfe5d748418",
     "type": "split",
     "children": [
       {
-        "id": "5347c818f2ebbcda",
+        "id": "e376943555c761f6",
         "type": "tabs",
         "children": [
           {
-            "id": "86476351587934eb",
+            "id": "570ca6759c4a0e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "functions (Discrete math).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "functions (Discrete math)"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "84deb423da7d0e5b",
+    "id": "e819aa933c67f9af",
     "type": "split",
     "children": [
       {
-        "id": "5b472d2aece91ebf",
+        "id": "84b291aacc2d34b2",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd9abd6b9239137",
+            "id": "65a40ea7287670f6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "72975d3208cc572e",
+            "id": "2c26ff7fac65f958",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "270347a29b4c01d7",
+            "id": "2641e6aea83e49ec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "9a4dda99a1c91f49",
+    "id": "3b49a1befd7640eb",
     "type": "split",
     "children": [
       {
-        "id": "61dae7f03b425b6e",
+        "id": "b96ae0f88875f494",
         "type": "tabs",
         "children": [
           {
-            "id": "e01f0ed7cfc99fe1",
+            "id": "e252a7dfb6ea6420",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中/vocab.md",
+                "file": "functions (Discrete math).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vocab"
+              "title": "Backlinks for functions (Discrete math)"
             }
           },
           {
-            "id": "0808cd18f0c25b35",
+            "id": "828623c6bec94dd5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中/vocab.md",
+                "file": "functions (Discrete math).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from vocab"
+              "title": "Outgoing links from functions (Discrete math)"
             }
           },
           {
-            "id": "e6b922e93840a007",
+            "id": "f3d848115ac4099c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +134,15 @@
             }
           },
           {
-            "id": "92ec437d73124027",
+            "id": "593161e988355a5f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "中/vocab.md"
+                "file": "functions (Discrete math).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vocab"
+              "title": "Outline of functions (Discrete math)"
             }
           }
         ]
@@ -162,35 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86476351587934eb",
+  "active": "570ca6759c4a0e2a",
   "lastOpenFiles": [
-    "Landing Page!!!.md",
-    "README.md",
-    "math/DISPROOF.md",
-    "中/vocab.md",
-    "Programming/Leetcode.md",
-    "History/China and Taiwan.md",
-    "math/PROOF BY INDUCTION.md",
-    "Programming/Linux cli libraries.md",
-    "History/Taiwan Strait.md",
-    "History",
-    "Programming",
-    "中/vocab2.md",
-    "math/DM_PROOF.md",
-    "math/Contradictions.md",
-    "math/Math landing page.md",
-    "et/idk.md",
-    "UX/note.md",
-    "UX/apple_design.md",
-    "notes/中/vocab.txt",
-    "math 1/a.tex",
-    "notes/math/DM_PROOF.txt",
-    "notes/et/idk.txt",
-    "notes/UX/note.txt",
-    "notes/UX/apple_design.txt",
-    "中",
-    "math 1",
-    "MathNotes/Untitled.canvas",
-    "MathNotes/Welcome.md"
+    "the pidgeonhole principle.md",
+    "surjective (onto B),  injective (one-to-one), and bijective (functions).md",
+    "functions (Discrete math).md",
+    "PROOF BY INDUCTION.md",
+    "Pasted image 20241204001654.png",
+    "Pasted image 20241204001735.png",
+    "Pasted image 20241204001730.png",
+    "injective (functions) (one-to-one).md",
+    "bijective (functions).md"
   ]
 }

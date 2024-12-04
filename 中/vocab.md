@@ -1,8 +1,10 @@
 
+一样-- instead of zenmeyang, you should think of it like "same/ alike"
+
 还--able to be in addition to
 事儿--thing
 	有事儿--something shi /
-认识--to know (but not well)--ren\shi\
+认识--to know (as a person)(but not well) or 'to know of someone' --ren\shi\
 滑冰--skating--hua/bing_
 忘记--forget
 雪景--snow--xueVjingV
@@ -11,16 +13,11 @@
 跳舞--dancing--tiaoVwuV
 同学--classmate--tong/xue/
 周末--weekend
+滑板--skating--huaban
+般--move--ban_
+帮忙--to help--bang_mang/
+包--bag--bao_
+饱--full--baoV
 
-ei ren 喜欢睡觉
-wgb 滑板huaban
-吃饭 睡觉 功课
-听音乐
-睡觉， 睡觉
-apex legends
-打电话
-7
-3 shuijiao
-1 huaban
-2 yinyue
 
+我们不朋友，对吗
