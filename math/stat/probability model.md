@@ -1,0 +1,1 @@
+	$$\Omega \text{ is calle dthe sample space. The eleents } \omega \exist \Omega \text { are called outcome. A subset } A \subseteq \Omega \text{ is called an event}$$ [[probability law]] 

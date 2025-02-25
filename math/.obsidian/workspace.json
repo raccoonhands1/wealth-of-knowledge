@@ -4,24 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "e376943555c761f6",
+        "id": "10d23f6562f3d31a",
         "type": "tabs",
         "children": [
           {
-            "id": "570ca6759c4a0e2a",
+            "id": "0870b52b468e9773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functions (Discrete math).md",
+                "file": "combinatorial proof.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "functions (Discrete math)"
+              "title": "combinatorial proof"
+            }
+          },
+          {
+            "id": "499359bbe7e06c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stat/probability law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "probability law"
+            }
+          },
+          {
+            "id": "bdb3d7bef3c4a952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stat/Untitled 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functions (Discrete math).md",
+                "file": "images and preimages (of functions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for functions (Discrete math)"
+              "title": "Backlinks for images and preimages (of functions)"
             }
           },
           {
@@ -112,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functions (Discrete math).md",
+                "file": "images and preimages (of functions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from functions (Discrete math)"
+              "title": "Outgoing links from images and preimages (of functions)"
             }
           },
           {
@@ -139,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functions (Discrete math).md"
+                "file": "images and preimages (of functions).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of functions (Discrete math)"
+              "title": "Outline of images and preimages (of functions)"
             }
           }
         ]
@@ -154,6 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,16 +195,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "570ca6759c4a0e2a",
+  "active": "65a40ea7287670f6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "stat/Untitled 3.md",
+    "stat/probability law.md",
+    "Untitled 2.md",
+    "destructors.md",
+    "combinatorial proof.md",
+    "reflexive, symmetric, and transitive (properties of relations).md",
+    "multiplication principle.md",
+    "Homework 6.md",
     "the pidgeonhole principle.md",
-    "surjective (onto B),  injective (one-to-one), and bijective (functions).md",
-    "functions (Discrete math).md",
+    "counting.md",
+    "stat/probability.md",
+    "conditional probability.md",
     "PROOF BY INDUCTION.md",
     "Pasted image 20241204001654.png",
+    "pascals triangle.md",
+    "multisets.md",
+    "inverse function.md",
+    "images and preimages (of functions).md",
+    "functions (Discrete math).md",
+    "eigenvalues and eigenvectors.md",
+    "DM_PROOF.md",
+    "DISPROOF.md",
+    "Contradictions.md",
+    "addition and subtraction principle.md",
+    "cardinality of sets.md",
+    "surjective (onto B),  injective (one-to-one), and bijective (functions).md",
+    "stat",
+    "stat",
+    "Pasted image 20241210000106.png",
+    "Pasted image 20241209235633.png",
+    "Pasted image 20241204105838.png",
+    "Pasted image 20241204131245.png",
+    "Pasted image 20241204105852.png",
+    "Pasted image 20241204103118.png",
     "Pasted image 20241204001735.png",
-    "Pasted image 20241204001730.png",
-    "injective (functions) (one-to-one).md",
-    "bijective (functions).md"
+    "Pasted image 20241204001730.png"
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e360f3e5bb74b9a2",
+        "id": "ff6a2d35295d3a7c",
         "type": "tabs",
         "children": [
           {
-            "id": "00a9da0e7fddb823",
+            "id": "62dbdc59d1ded4c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,6 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00a9da0e7fddb823",
-  "lastOpenFiles": []
+  "active": "62dbdc59d1ded4c5",
+  "lastOpenFiles": [
+    "着.md",
+    "vocab.md"
+  ]
 }

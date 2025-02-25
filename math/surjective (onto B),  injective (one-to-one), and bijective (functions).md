@@ -1,4 +1,4 @@
-# Surjective 
+## Surjective 
 
 """
 a function is surjective if for every b exists in B, there is an a that exists in A with f(a) = b
@@ -7,17 +7,19 @@ a function is surjective if for every b exists in B, there is an a that exists i
 sort of like a->b but a is from set A and b is from set B
 
 
-# Injective
+## Injective
 
 """
 for all a, a^I exists in A, a != a^I implies f(a) != f(a^I)
 """
 
-# Bijective
+## Bijective
 
 """
 being both surjective and interjective
 """
+
+if injective, bijective, or subjective, then it has an [[inverse function]] f^-1
 
 note: [[the pidgeonhole principle]] applies to these...
 
