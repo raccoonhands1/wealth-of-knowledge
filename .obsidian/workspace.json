@@ -8,49 +8,82 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86476351587934eb",
+            "id": "c91c9046b527d59b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programming/Loading Data.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Loading Data"
             }
           },
           {
-            "id": "cc4f7055c4ccc3c7",
+            "id": "191d6ebaec3aa28d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/The Bonfire Moment/Landing.md",
+                "file": "Programming/Instruction Formats.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Landing"
+              "title": "Instruction Formats"
             }
           },
           {
-            "id": "697210272b863d2b",
+            "id": "e350129220013ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Tao Te Ching/Landing.md",
+                "file": "Startup Notes.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Landing"
+              "title": "Startup Notes"
+            }
+          },
+          {
+            "id": "7c8e8e52410ea106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Cleaning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Cleaning"
+            }
+          },
+          {
+            "id": "34eb40c5da46cf41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Machine Learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,12 +226,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "697210272b863d2b",
+  "active": "34eb40c5da46cf41",
   "lastOpenFiles": [
+    "Estimating Error.md",
+    "math/CSE120 HW1.md",
+    "math/Untitled 1.md",
+    "Pasted image 20250410131555.png",
+    "Data Cleaning.md",
+    "Startup Notes.md",
+    "Programming/Instruction Formats.md",
+    "Pasted image 20250409094952.png",
+    "Programming/Loading Data.md",
+    "math/stat/Homework 7.md",
+    "math/stat/probability law.md",
     "books/The Bonfire Moment/Landing.md",
-    "books/Tao Te Ching/Landing.md",
-    "books/Tao Te Ching",
+    "Programming/Machine Learning.md",
+    "Programming/Iron Law (CPU Performance Eqn).md",
+    "Programming/Amdahl's Law.md",
+    "Programming/Clock.md",
+    "Pasted image 20250402093521.png",
     "README.md",
+    "books/Tao Te Ching/Landing.md",
+    "Joint PDFs of Multiple Random Variables.md",
+    "math/stat/probability.md",
+    "math/Untitled.md",
+    "books/Tao Te Ching",
     "books/The Bonfire Moment",
     "Landing Page!!!.md",
     "math/DISPROOF.md",
@@ -206,23 +259,14 @@
     "History/China and Taiwan.md",
     "math/PROOF BY INDUCTION.md",
     "Programming/Linux cli libraries.md",
-    "History/Taiwan Strait.md",
     "History",
     "Programming",
-    "中/vocab2.md",
-    "math/DM_PROOF.md",
-    "math/Contradictions.md",
-    "math/Math landing page.md",
-    "et/idk.md",
-    "UX/note.md",
-    "UX/apple_design.md",
     "notes/中/vocab.txt",
     "math 1/a.tex",
     "notes/math/DM_PROOF.txt",
     "notes/et/idk.txt",
     "notes/UX/note.txt",
     "notes/UX/apple_design.txt",
-    "MathNotes/Untitled.canvas",
-    "MathNotes/Welcome.md"
+    "MathNotes/Untitled.canvas"
   ]
 }

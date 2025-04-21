@@ -1,4 +1,13 @@
 {
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 74
+  },
+  "defaultViewMode": "source",
+  "vimMode": true
 }

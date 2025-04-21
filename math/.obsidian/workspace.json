@@ -4,56 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "10d23f6562f3d31a",
+        "id": "decf0ff1bc02286e",
         "type": "tabs",
         "children": [
           {
-            "id": "0870b52b468e9773",
+            "id": "b294cffe993b1481",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "combinatorial proof.md",
+                "file": "pascals triangle.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "combinatorial proof"
+              "title": "pascals triangle"
             }
           },
           {
-            "id": "499359bbe7e06c63",
+            "id": "949f4ba4cec32814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stat/probability law.md",
+                "file": "CSE120 HW1.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "probability law"
-            }
-          },
-          {
-            "id": "bdb3d7bef3c4a952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stat/Untitled 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "CSE120 HW1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -195,10 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65a40ea7287670f6",
+  "active": "949f4ba4cec32814",
   "lastOpenFiles": [
-    "Untitled.md",
+    "pascals triangle.md",
+    "CSE120 HW1.md",
     "stat/Untitled 3.md",
+    "Untitled.md",
     "stat/probability law.md",
     "Untitled 2.md",
     "destructors.md",
@@ -212,7 +200,6 @@
     "conditional probability.md",
     "PROOF BY INDUCTION.md",
     "Pasted image 20241204001654.png",
-    "pascals triangle.md",
     "multisets.md",
     "inverse function.md",
     "images and preimages (of functions).md",
@@ -223,7 +210,6 @@
     "Contradictions.md",
     "addition and subtraction principle.md",
     "cardinality of sets.md",
-    "surjective (onto B),  injective (one-to-one), and bijective (functions).md",
     "stat",
     "stat",
     "Pasted image 20241210000106.png",
