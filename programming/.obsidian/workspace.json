@@ -13,77 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/compiler/warning levels.md",
+                "file": "中/vocab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "warning levels"
+              "title": "vocab"
             }
           },
           {
-            "id": "1e56c61b8c419ab3",
+            "id": "d0087575af120a02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/compiler/warning levels.md",
+                "file": "中/着.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "warning levels"
+              "title": "着"
             }
           },
           {
-            "id": "e68ca9bb834f134d",
+            "id": "3948d2a896a081c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/fundementals/initializations.md",
+                "file": "cpp/compiler/compile time constant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "initializations"
-            }
-          },
-          {
-            "id": "e25325e6c06588c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp/compiler/warning levels.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "warning levels"
-            }
-          },
-          {
-            "id": "fa2a3c6447a05949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp/compiler/runtime constant.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "runtime constant"
+              "title": "compile time constant"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/compiler/runtime constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for runtime constant"
+              "title": "Backlinks"
             }
           },
           {
@@ -199,21 +168,42 @@
             }
           },
           {
-            "id": "ea7228c4f29b850f",
+            "id": "4f67cfb905181c00",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "25e20a7d92274ce5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "f92d5d4558d04c97",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pipelining.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pipelining"
+              "title": "Outline of README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -222,59 +212,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "audio-recorder:Start/stop recording": true,
       "workspaces:Manage workspace layouts": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2d5d7b519f69dd47",
+  "active": "3948d2a896a081c1",
   "lastOpenFiles": [
-    "CALLOUTS.md",
-    "cpp/compiler/runtime constant.md",
+    "cpp/compiler/Untitled.md",
     "cpp/compiler/compile time constant.md",
-    "cpp/compiler/warning levels.md",
-    "cpp/compiler/optimizations/as-if rule (compilers).md",
-    "cpp/compiler/optimizations/constant propagation.md",
-    "cpp/compiler/optimizations/dead code elimation.md",
-    "cpp/compiler/optimizations/constant folding.md",
-    "cpp/compiler/optimizations",
-    "cpp/compiler/gcc compiler options.md",
-    "cpp/stdlib/span.md",
-    "cpp/stdlib/cin.md",
-    "cpp/stdlib/cout.md",
-    "cpp/stdlib",
-    "architecture/compiler (cpp).md",
-    "architecture/compiler extension.md",
-    "cpp/stdlib/endl.md",
-    "cpp/fundementals/initializations.md",
+    "ml/data cleaning.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "math/Untitled",
+    "Untitled.canvas",
+    "README.md",
+    "2025-12-13.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.06.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.07.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.25_0.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.05.59.excalidraw.md",
+    "中/着.md",
+    "Excalidraw/Drawing 2025-12-13 23.03.42.excalidraw.md",
+    "中/vocab.md",
+    "Excalidraw",
+    "Untitled",
+    "history/china/Taiwan Strait.md",
+    "中/Startup Notes.md",
+    "中/README.md",
+    "history/china",
+    "a-TEMPLATES/CODE/code snippet.md",
+    "a-TEMPLATES/CODE",
+    "a-TEMPLATES/GENERIC/phased concept.md",
+    "a-TEMPLATES/GENERIC/thing.md",
+    "a-TEMPLATES/GENERIC/concept.md",
+    "a-TEMPLATES/GENERIC",
+    "math/a-TEMPLATES/thing.md",
+    "math/a-TEMPLATES/phased concept.md",
+    "math/a-TEMPLATES/concept.md",
+    "math/a-TEMPLATES/code snippet.md",
+    "math/a-TEMPLATES",
+    "programming/a-TEMPLATES/a-TEMPLATES",
     "cpp/fundementals/attachments/Pasted image 20251213183027.png",
-    "cpp/fundementals/attachments",
-    "cpp/fundementals",
-    "a-TEMPLATES/code snippet.md",
-    "cpp/compiler",
-    "cpp/Untitled 1.md",
-    "architecture/block of memory.md",
-    "a-TEMPLATES/concept.md",
-    "architecture/temporal locality.md",
-    "architecture/linker (cpp).md",
     "architecture/attachments/Pasted image 20251213175542.png",
     "architecture/attachments/Pasted image 20251213174433.png",
-    "architecture/object file.md",
-    "a-TEMPLATES/thing.md",
-    "a-TEMPLATES/phased concept.md",
-    "architecture/Iron Law (CPU Performance Eqn).md",
-    "a-TEMPLATES/attachments/Recording 20251213161543.m4a",
-    "cpp",
-    "a-TEMPLATES/attachments",
-    "a-TEMPLATES/Untitled.base",
-    "a-TEMPLATES/Untitled 1.base",
     "ml/attachments/Pasted image 20250410131555.png",
     "architecture/attachments/Pasted image 20250608215518.png",
     "architecture/attachments/Pasted image 20250402093521.png",

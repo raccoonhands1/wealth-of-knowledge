@@ -58,15 +58,6 @@
       "key": "A"
     }
   ],
-  "edit-in-neovim:edit-in-neovim-new-instance": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "editor:swap-line-down": [
     {
       "modifiers": [
@@ -92,7 +83,6 @@
       "key": "."
     }
   ],
-  "markdown:add-metadata-property": [],
   "jelly-snippets:trigger-snippet": [
     {
       "modifiers": [
@@ -117,5 +107,31 @@
       "key": "Enter"
     }
   ],
-  "editor:open-link-in-new-leaf": []
+  "editor:open-link-in-new-leaf": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:toggle-comments": [],
+  "edit-in-neovim:edit-in-neovim-new-instance": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ]
 }

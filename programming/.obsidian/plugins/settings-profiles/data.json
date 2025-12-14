@@ -1,5 +1,8 @@
 {
-  "activeProfile": {},
+  "activeProfile": {
+    "name": "main",
+    "modifiedAt": "2025-12-14T08:03:20.701Z"
+  },
   "profileUpdate": true,
   "profileUpdateDelay": 800,
   "uiUpdate": true,

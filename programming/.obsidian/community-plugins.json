@@ -5,5 +5,9 @@
   "edit-in-neovim",
   "obsidian-hotkeys-for-templates",
   "jelly-snippets",
-  "settings-profiles"
+  "settings-profiles",
+  "obsidian-excalidraw-plugin",
+  "obsidian-spaced-repetition",
+  "obsidian-latex-suite",
+  "obsidian-vimrc-support"
 ]

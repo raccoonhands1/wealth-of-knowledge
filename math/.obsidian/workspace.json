@@ -11,10 +11,15 @@
             "id": "e25325e6c06588c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "topology/Topology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Topology"
             }
           }
         ]
@@ -31,7 +36,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d5d7b519f69dd47",
+            "id": "e5b5650a835c59c9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -118,21 +123,6 @@
             }
           },
           {
-            "id": "13deb078ddc13751",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "ea7228c4f29b850f",
             "type": "leaf",
             "state": {
@@ -146,6 +136,21 @@
               "icon": "lucide-list",
               "title": "Outline of Pipelining"
             }
+          },
+          {
+            "id": "eee3ad9681b4b149",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
@@ -156,16 +161,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "callout-manager:Insert Callout": true,
       "audio-recorder:Start/stop recording": true,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "e25325e6c06588c1",
