@@ -1,5 +1,7 @@
 {
   "cssTheme": "Sandstorm",
   "baseFontSize": 14,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "accentColor": "#d39cc4"
 }

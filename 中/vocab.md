@@ -12,7 +12,7 @@
 击剑--fencing--ji_jian\
 跳舞--dancing--tiaoVwuV
 同学--classmate--tong/xue/
-周末--weekend
+  周末--weekend
 滑板--skating--hua/banV
 般--move--ban_
 帮忙--to help--bang_mang/

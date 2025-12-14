@@ -1,0 +1,7 @@
+---
+tags:
+created:
+  "{ date }":
+---
+>[!concept]
+> 

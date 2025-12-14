@@ -1,1 +1,0 @@
-$$\text{at row n, the elements add up to }\binom{2n}{n}$$

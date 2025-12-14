@@ -1,1 +1,0 @@
->[!definition] nodes are useful but limited because they increase complexity. [[RefCounted]], Objects, and [[Resources]] are all alternatives
