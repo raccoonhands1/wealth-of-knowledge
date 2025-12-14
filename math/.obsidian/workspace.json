@@ -28,17 +28,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE120 HW1.md",
+                "file": "linear/lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CSE120 HW1"
+              "title": "lists"
+            }
+          },
+          {
+            "id": "a928778888d60f36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,12 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "949f4ba4cec32814",
+  "active": "a928778888d60f36",
   "lastOpenFiles": [
-    "pascals triangle.md",
+    "linear/lists.md~",
+    "Topology.md",
     "CSE120 HW1.md",
+    "pascals triangle.md",
     "stat/Untitled 3.md",
-    "Untitled.md",
     "stat/probability law.md",
     "Untitled 2.md",
     "destructors.md",
@@ -209,7 +223,6 @@
     "DISPROOF.md",
     "Contradictions.md",
     "addition and subtraction principle.md",
-    "cardinality of sets.md",
     "stat",
     "stat",
     "Pasted image 20241210000106.png",

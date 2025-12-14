@@ -8,82 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c91c9046b527d59b",
+            "id": "e4c7e5eab987dccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Loading Data.md",
+                "file": "public speaking/THEA 'Big Pitch'.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Loading Data"
-            }
-          },
-          {
-            "id": "191d6ebaec3aa28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Instruction Formats.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Instruction Formats"
-            }
-          },
-          {
-            "id": "e350129220013ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startup Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Startup Notes"
-            }
-          },
-          {
-            "id": "7c8e8e52410ea106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Cleaning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Cleaning"
-            }
-          },
-          {
-            "id": "34eb40c5da46cf41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Machine Learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "THEA 'Big Pitch'"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -226,47 +166,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34eb40c5da46cf41",
+  "active": "e4c7e5eab987dccf",
   "lastOpenFiles": [
-    "Estimating Error.md",
-    "math/CSE120 HW1.md",
-    "math/Untitled 1.md",
-    "Pasted image 20250410131555.png",
-    "Data Cleaning.md",
+    "Programming/Machine Learning.md",
     "Startup Notes.md",
     "Programming/Instruction Formats.md",
-    "Pasted image 20250409094952.png",
     "Programming/Loading Data.md",
-    "math/stat/Homework 7.md",
-    "math/stat/probability law.md",
-    "books/The Bonfire Moment/Landing.md",
-    "Programming/Machine Learning.md",
-    "Programming/Iron Law (CPU Performance Eqn).md",
-    "Programming/Amdahl's Law.md",
-    "Programming/Clock.md",
-    "Pasted image 20250402093521.png",
+    "public speaking/THEA 'Big Pitch'.md",
+    "public speaking/impromptu.md",
+    "public speaking/Sales Pitch.md",
+    "public speaking/public speaking lecture notes 8.md",
+    "Programming/Leetcode.md",
+    "Programming/godot.md",
+    "Programming/Untitled.md",
+    "中/着.md",
+    "中/vocab.md",
     "README.md",
-    "books/Tao Te Ching/Landing.md",
-    "Joint PDFs of Multiple Random Variables.md",
-    "math/stat/probability.md",
-    "math/Untitled.md",
+    "Programming/pipelining.md",
+    "Meeting Notes.md",
+    "Meeting 1 Notes.md",
+    "RISCV_tb.md",
+    "Programming/Pasted image 20250410131555.png",
+    "Programming/Pasted image 20250409094952.png",
+    "Programming/Pasted image 20250402093521.png",
+    "Programming/homework/HW2 -- cse120.md",
+    "Programming/Linux cli libraries.md",
+    "Programming/homework",
+    "Programming/homework/HW6 -- cse120.md",
+    "Programming/Final notes.md",
+    "public speaking",
+    "zoeblub.md",
+    "Programming/homework/HW5 -- cse120.md",
+    "Programming/homework/HW4 -- cse120.md",
+    "Programming/Data Cleaning.md",
+    "impromptu.md~",
     "books/Tao Te Ching",
     "books/The Bonfire Moment",
-    "Landing Page!!!.md",
-    "math/DISPROOF.md",
-    "中/vocab.md",
-    "Programming/Leetcode.md",
-    "History/China and Taiwan.md",
-    "math/PROOF BY INDUCTION.md",
-    "Programming/Linux cli libraries.md",
     "History",
     "Programming",
     "notes/中/vocab.txt",
     "math 1/a.tex",
     "notes/math/DM_PROOF.txt",
-    "notes/et/idk.txt",
-    "notes/UX/note.txt",
-    "notes/UX/apple_design.txt",
     "MathNotes/Untitled.canvas"
   ]
 }
