@@ -1,7 +1,9 @@
 [
   "callout-manager",
-  "obsidian-list-callouts",
   "callout-integrator",
   "math-in-callout",
-  "edit-in-neovim"
+  "edit-in-neovim",
+  "obsidian-hotkeys-for-templates",
+  "jelly-snippets",
+  "settings-profiles"
 ]

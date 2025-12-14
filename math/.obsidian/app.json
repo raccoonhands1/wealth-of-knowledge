@@ -1,5 +1,4 @@
 {
-  "spellcheck": false,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -8,5 +7,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "vimMode": false
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }

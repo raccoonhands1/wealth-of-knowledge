@@ -1,0 +1,19 @@
+{
+  "activeProfile": {
+    "name": "main",
+    "modifiedAt": "2025-12-14T06:26:35.578Z"
+  },
+  "profileUpdate": true,
+  "profileUpdateDelay": 800,
+  "uiUpdate": true,
+  "uiUpdateInterval": 1000,
+  "devices": {
+    "92829b74d3a21ab57e9000fc983ad19cf13241155f2a8d4f1e3e9af8d29de107": "/home/raccoonhands/snap/obsidian/53/.local/share/obsidianplugins/Profiles"
+  },
+  "statusbarInteraction": {
+    "click": "auto",
+    "ctrl_click": "none",
+    "shift_click": "none",
+    "alt_click": "none"
+  }
+}

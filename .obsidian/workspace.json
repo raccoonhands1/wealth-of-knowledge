@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "3e01608c64cd9b69",
+    "id": "c20b6563925169ad",
     "type": "split",
     "children": [
       {
-        "id": "5347c818f2ebbcda",
+        "id": "4cf8ff17d990e2ca",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c7e5eab987dccf",
+            "id": "72bfa14da67c2c26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "public speaking/THEA 'Big Pitch'.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "THEA 'Big Pitch'"
+              "title": "New tab"
             }
           }
         ]
@@ -28,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "84deb423da7d0e5b",
+    "id": "e1e9cccb91f4ad55",
     "type": "split",
     "children": [
       {
-        "id": "5b472d2aece91ebf",
+        "id": "87c106398dc15227",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd9abd6b9239137",
+            "id": "2d5d7b519f69dd47",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +44,12 @@
             }
           },
           {
-            "id": "72975d3208cc572e",
+            "id": "2a7758795783c925",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "270347a29b4c01d7",
+            "id": "9fc3f84ed99290a3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "9a4dda99a1c91f49",
+    "id": "4e7d1bd02d6d765e",
     "type": "split",
     "children": [
       {
-        "id": "61dae7f03b425b6e",
+        "id": "66c796b62bd5cfa7",
         "type": "tabs",
         "children": [
           {
-            "id": "e01f0ed7cfc99fe1",
+            "id": "c391b97dd1c511ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中/vocab.md",
+                "file": "cpp/compiler/runtime constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,108 +100,120 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vocab"
+              "title": "Backlinks for runtime constant"
             }
           },
           {
-            "id": "0808cd18f0c25b35",
+            "id": "00e5719c0ebce28a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中/vocab.md",
+                "file": "Pipelining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from vocab"
+              "title": "Outgoing links from Pipelining"
             }
           },
           {
-            "id": "e6b922e93840a007",
+            "id": "13deb078ddc13751",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "92ec437d73124027",
+            "id": "ea7228c4f29b850f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "中/vocab.md"
+                "file": "Pipelining.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vocab"
+              "title": "Outline of Pipelining"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": true,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e4c7e5eab987dccf",
+  "active": "72bfa14da67c2c26",
   "lastOpenFiles": [
-    "Programming/Machine Learning.md",
-    "Startup Notes.md",
-    "Programming/Instruction Formats.md",
-    "Programming/Loading Data.md",
-    "public speaking/THEA 'Big Pitch'.md",
-    "public speaking/impromptu.md",
-    "public speaking/Sales Pitch.md",
-    "public speaking/public speaking lecture notes 8.md",
-    "Programming/Leetcode.md",
-    "Programming/godot.md",
-    "Programming/Untitled.md",
-    "中/着.md",
-    "中/vocab.md",
-    "README.md",
-    "Programming/pipelining.md",
-    "Meeting Notes.md",
-    "Meeting 1 Notes.md",
-    "RISCV_tb.md",
-    "Programming/Pasted image 20250410131555.png",
-    "Programming/Pasted image 20250409094952.png",
-    "Programming/Pasted image 20250402093521.png",
-    "Programming/homework/HW2 -- cse120.md",
-    "Programming/Linux cli libraries.md",
-    "Programming/homework",
-    "Programming/homework/HW6 -- cse120.md",
-    "Programming/Final notes.md",
-    "public speaking",
-    "zoeblub.md",
-    "Programming/homework/HW5 -- cse120.md",
-    "Programming/homework/HW4 -- cse120.md",
-    "Programming/Data Cleaning.md",
-    "impromptu.md~",
-    "books/Tao Te Ching",
-    "books/The Bonfire Moment",
-    "History",
-    "Programming",
-    "notes/中/vocab.txt",
-    "math 1/a.tex",
-    "notes/math/DM_PROOF.txt",
-    "MathNotes/Untitled.canvas"
+    "cpp/compiler/compile time constant.md",
+    "cpp/compiler/runtime constant.md",
+    "cpp/compiler/warning levels.md",
+    "cpp/compiler/optimizations/as-if rule (compilers).md",
+    "cpp/compiler/optimizations/constant propagation.md",
+    "cpp/compiler/optimizations/dead code elimation.md",
+    "cpp/compiler/optimizations/constant folding.md",
+    "cpp/compiler/optimizations",
+    "cpp/compiler/gcc compiler options.md",
+    "cpp/stdlib/span.md",
+    "cpp/stdlib/cin.md",
+    "cpp/stdlib/cout.md",
+    "cpp/stdlib",
+    "architecture/compiler (cpp).md",
+    "architecture/compiler extension.md",
+    "cpp/stdlib/endl.md",
+    "cpp/fundementals/initializations.md",
+    "cpp/fundementals/attachments/Pasted image 20251213183027.png",
+    "cpp/fundementals/attachments",
+    "cpp/fundementals",
+    "a-TEMPLATES/code snippet.md",
+    "cpp/compiler",
+    "cpp/Untitled 1.md",
+    "architecture/block of memory.md",
+    "a-TEMPLATES/concept.md",
+    "CALLOUTS.md",
+    "architecture/temporal locality.md",
+    "architecture/linker (cpp).md",
+    "architecture/attachments/Pasted image 20251213175542.png",
+    "architecture/attachments/Pasted image 20251213174433.png",
+    "architecture/object file.md",
+    "a-TEMPLATES/thing.md",
+    "a-TEMPLATES/phased concept.md",
+    "architecture/Iron Law (CPU Performance Eqn).md",
+    "a-TEMPLATES/attachments/Recording 20251213161543.m4a",
+    "cpp",
+    "a-TEMPLATES/attachments",
+    "a-TEMPLATES/Untitled.base",
+    "a-TEMPLATES/Untitled 1.base",
+    "ml/attachments/Pasted image 20250410131555.png",
+    "architecture/attachments/Pasted image 20250608215518.png",
+    "architecture/attachments/Pasted image 20250402093521.png",
+    "architecture/attachments/Pasted image 20250608212705.png",
+    "architecture/attachments/Pasted image 20250409094952.png",
+    "Pasted image 20251023233301.png",
+    "Pasted image 20251023234106.png"
   ]
 }

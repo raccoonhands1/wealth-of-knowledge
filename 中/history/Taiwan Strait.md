@@ -1,0 +1,1 @@
+The strait (narrow passage of water) that divides China and Taiwan. 130 km wide.
