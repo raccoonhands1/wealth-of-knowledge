@@ -19,7 +19,7 @@
   "tabSize": 2,
   "useTab": true,
   "smartIndentList": false,
-  "defaultViewMode": "preview",
-  "livePreview": false,
+  "defaultViewMode": "source",
+  "livePreview": true,
   "vimMode": true
 }

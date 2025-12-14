@@ -1,4 +1,4 @@
-  frame  [frame['col-missing-values'] == True] -> True
+frame  [frame['col-missing-values'] == True] -> True
 frame[frame['col-missing-values'] == False] -> False
 
 - don't compare bools with True/False

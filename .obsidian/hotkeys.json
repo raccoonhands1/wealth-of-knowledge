@@ -75,14 +75,6 @@
     }
   ],
   "text-snippets-obsidian:text-snippets": [],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "."
-    }
-  ],
   "jelly-snippets:trigger-snippet": [
     {
       "modifiers": [
@@ -133,5 +125,14 @@
       ],
       "key": "'"
     }
-  ]
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:delete-paragraph": []
 }

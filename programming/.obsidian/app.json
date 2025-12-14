@@ -18,5 +18,8 @@
   "autoPairBrackets": true,
   "tabSize": 2,
   "useTab": true,
-  "smartIndentList": false
+  "smartIndentList": false,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "vimMode": true
 }

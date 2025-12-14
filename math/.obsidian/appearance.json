@@ -2,5 +2,9 @@
   "cssTheme": "Sandstorm",
   "baseFontSize": 14,
   "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": "#d39cc4",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

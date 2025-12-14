@@ -58,15 +58,6 @@
       "key": "A"
     }
   ],
-  "edit-in-neovim:edit-in-neovim-new-instance": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "editor:swap-line-down": [
     {
       "modifiers": [
@@ -84,15 +75,6 @@
     }
   ],
   "text-snippets-obsidian:text-snippets": [],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "."
-    }
-  ],
-  "markdown:add-metadata-property": [],
   "jelly-snippets:trigger-snippet": [
     {
       "modifiers": [
@@ -126,5 +108,31 @@
       "key": "/"
     }
   ],
-  "editor:toggle-comments": []
+  "editor:toggle-comments": [],
+  "edit-in-neovim:edit-in-neovim-new-instance": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:delete-paragraph": []
 }

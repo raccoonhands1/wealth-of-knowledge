@@ -8,5 +8,18 @@
     "downscalePercent": 100
   },
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "autoPairBrackets": true,
+  "tabSize": 2,
+  "useTab": true,
+  "smartIndentList": false,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "vimMode": true
 }

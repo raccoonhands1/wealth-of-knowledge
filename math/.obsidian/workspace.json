@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4cf8ff17d990e2ca",
+        "id": "f78eda30b516ea8a",
         "type": "tabs",
         "children": [
           {
-            "id": "e25325e6c06588c1",
+            "id": "3fca1bb665389434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topology/Topology.md",
+                "file": "stat/conditional probability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Topology"
+              "title": "conditional probability"
             }
           }
         ]
@@ -36,7 +36,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5b5650a835c59c9",
+            "id": "2d5d7b519f69dd47",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/compiler/runtime constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for runtime constant"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,22 +122,7 @@
             }
           },
           {
-            "id": "ea7228c4f29b850f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pipelining.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Pipelining"
-            }
-          },
-          {
-            "id": "eee3ad9681b4b149",
+            "id": "13deb078ddc13751",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,8 +135,44 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "4f67cfb905181c00",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "25e20a7d92274ce5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "f92d5d4558d04c97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,63 +181,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "audio-recorder:Start/stop recording": true,
       "workspaces:Manage workspace layouts": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e25325e6c06588c1",
+  "active": "3fca1bb665389434",
   "lastOpenFiles": [
-    "discrete-math/attachments/Pasted image 20241204105852.png",
-    "attachments/Pasted image 20241204105838.png",
-    "discrete-math/attachments/Pasted image 20241204131245.png",
-    "discrete-math/attachments/Pasted image 20241204105838.png",
-    "discrete-math/attachments/Pasted image 20241210000106.png",
-    "discrete-math/attachments/Pasted image 20241209235633.png",
-    "discrete-math/attachments/Pasted image 20241204103118.png",
-    "discrete-math/attachments/Pasted image 20241204001654.png",
-    "stat/attachments",
-    "discrete-math/attachments",
-    "attachments/Pasted image 20241204103118.png",
-    "attachments/Pasted image 20241204001654.png",
-    "stat/Joint PDFs of Multiple Random Variables.md",
-    "topology/Topology.md",
-    "z-homework/Extra Problems.md",
-    "z-homework/Homework 6.md",
-    "Topology.md",
-    "linear/destructors.md",
-    "proofs/Contradictions.md",
-    "proofs/DM_PROOF.md",
-    "proofs/DISPROOF.md",
-    "proofs/PROOF BY INDUCTION.md",
-    "stat/conditional probability.md",
-    "discrete-math/the pidgeonhole principle.md",
-    "discrete-math/surjective (onto B),  injective (one-to-one), and bijective (functions).md",
-    "discrete-math/reflexive, symmetric, and transitive (properties of relations).md",
-    "discrete-math/pascals triangle.md",
-    "discrete-math/multisets.md",
-    "discrete-math/multiplication principle.md",
-    "discrete-math/inverse function.md",
-    "discrete-math/images and preimages (of functions).md",
-    "discrete-math/functions (Discrete math).md",
-    "discrete-math/counting.md",
-    "discrete-math/combinatorial proof.md",
-    "discrete-math/cardinality of sets.md",
-    "discrete-math/addition and subtraction principle.md",
-    "attachments/Pasted image 20241210000106.png",
-    "z-homework",
-    "attachments",
-    "topology",
-    "proofs",
-    "discrete-math",
-    "the pidgeonhole principle.md",
+    "中/a-TEMPLATES/phased concept.md",
+    "中/a-TEMPLATES/concept.md",
+    "中/a-TEMPLATES/code snippet.md",
+    "中/vocab.md",
+    "README.md",
+    "中/着.md",
+    "programming/cpp/compiler/Untitled.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "math/Untitled",
+    "Untitled.canvas",
+    "2025-12-13.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.06.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.07.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.09.25_0.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.05.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-13 23.03.42.excalidraw.md",
+    "Excalidraw",
     "Untitled",
-    "a-TEMPLATES",
-    "a-TEMPLATES1"
+    "history/china/Taiwan Strait.md",
+    "中/Startup Notes.md",
+    "中/README.md",
+    "history/china",
+    "a-TEMPLATES/CODE/code snippet.md",
+    "a-TEMPLATES/CODE",
+    "a-TEMPLATES/GENERIC/phased concept.md",
+    "a-TEMPLATES/GENERIC/thing.md",
+    "a-TEMPLATES/GENERIC/concept.md",
+    "a-TEMPLATES/GENERIC",
+    "math/a-TEMPLATES/thing.md",
+    "math/a-TEMPLATES/phased concept.md",
+    "math/a-TEMPLATES/concept.md",
+    "math/a-TEMPLATES",
+    "programming/a-TEMPLATES/a-TEMPLATES",
+    "cpp/fundementals/attachments/Pasted image 20251213183027.png",
+    "architecture/attachments/Pasted image 20251213175542.png",
+    "architecture/attachments/Pasted image 20251213174433.png",
+    "ml/attachments/Pasted image 20250410131555.png",
+    "architecture/attachments/Pasted image 20250608215518.png",
+    "architecture/attachments/Pasted image 20250402093521.png",
+    "architecture/attachments/Pasted image 20250608212705.png",
+    "architecture/attachments/Pasted image 20250409094952.png",
+    "Pasted image 20251023233301.png",
+    "Pasted image 20251023234106.png"
   ]
 }
