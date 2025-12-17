@@ -8,4 +8,3 @@
 > - eProf gets evaluated based on the SETS at the end of quarter
 > - throughout the quarter, she can take actions (give lectures, assignments, get indirect feedback (how many students *fall asleep*, *comments on ed discussion*, etc))
 > - Optimize her actions!
-

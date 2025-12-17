@@ -1,5 +1,5 @@
 {
-  "snippetsFile": "Snip me! |+| Snippet successfully replaced.\n-==-\n::c |+| > [!%\\e]\n-==-\n::code |+| ```%\\n%\\e%\\n```\n\n\n\n\n\n-==-\nNewline: %\\n\nTab: %\\t\nSpace: %\\s\nCursor Ending position (after snippet replacement): %\\e",
+  "snippetsFile": "Snip me! |+| Snippet successfully replaced.\n-==-\n::c |+| > [!%\\e]\n-==-\n::code |+| ```run-cpp%\\n%\\e%\\n```\n\n\n\n\n\n-==-\nNewline: %\\n\nTab: %\\t\nSpace: %\\s\nCursor Ending position (after snippet replacement): %\\e",
   "triggerOnSpace": "y-ws",
   "triggerOnEnter": "n-ws",
   "triggerOnTab": "n-ws",

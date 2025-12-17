@@ -6,8 +6,6 @@
   "accentColor": "#d39cc4",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "enabledCssSnippets": [
-    "haxor-red"
-  ]
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": []
 }
