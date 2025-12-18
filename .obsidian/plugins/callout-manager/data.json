@@ -6,7 +6,12 @@
       "steps",
       "phases",
       "concept",
-      "see"
+      "see",
+      "overview",
+      "theorem",
+      "conjecture",
+      "axiom",
+      "goals"
     ],
     "settings": {
       "definition": [
@@ -116,6 +121,46 @@
           },
           "changes": {
             "color": "168, 130, 255"
+          }
+        }
+      ],
+      "overview": [
+        {
+          "changes": {
+            "icon": "lucide-banana",
+            "color": "227, 107, 167"
+          }
+        }
+      ],
+      "theorem": [
+        {
+          "changes": {
+            "icon": "lucide-check-circle-2",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "conjecture": [
+        {
+          "changes": {
+            "icon": "lucide-asterisk",
+            "color": "251, 70, 76"
+          }
+        }
+      ],
+      "axiom": [
+        {
+          "changes": {
+            "icon": "lucide-check-circle-2",
+            "color": "166, 189, 197"
+          }
+        }
+      ],
+      "goals": [
+        {
+          "changes": {
+            "icon": "lucide-list",
+            "color": "227, 107, 167"
           }
         }
       ]

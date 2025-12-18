@@ -111,12 +111,22 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
             "id": "e7fcede59dbfdd08",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "3e610b6d2023e403",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -141,10 +151,10 @@
       "command-palette:Open command palette": true,
       "audio-recorder:Start/stop recording": true,
       "workspaces:Manage workspace layouts": false,
-      "callout-manager:Insert Callout": true,
+      "callout-manager:Insert Callout": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Open Copilot Chat": true
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "e7fcede59dbfdd08",

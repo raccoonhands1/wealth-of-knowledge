@@ -1,0 +1,97 @@
+.cedict-hover-box {
+    position: absolute;
+    z-index: 0 !important;
+    background-color: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.3);
+    pointer-events: none;
+    border-radius: 3px;
+    transition: all 0.05s ease;
+}
+.cedict-line-hover {
+    background-color: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.3);
+    transition: background-color 0.3s ease;
+}
+.cm-line {
+    transition: all 0.5s ease;
+}
+.vocab-entry {
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--background-modifier-border);
+    cursor: pointer;
+}
+.vocab-word {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.vocab-pinyin {
+    font-style: italic;
+    color: var(--text-muted);
+    margin-top: 2px;
+}
+.vocab-defs {
+    margin-top: 4px;
+    color: var(--text-normal);
+    font-size: 0.95em;
+    line-height: 1.4;
+}
+.cedict-tooltip {
+    position: absolute;
+    padding: 6px 10px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    white-space: pre-line;
+    z-index: 10000;
+    pointer-events: none;
+    display: none;
+}
+
+
+
+.hsk-highlight {
+    padding: 0;
+    display: inline;
+    margin: 0;
+}
+  
+.hsk-level-1 { 
+    /* background-color: rgba(135, 206, 250, 0.3);  */
+    font-weight: 700;
+    color: #f7b51e;
+} 
+.hsk-level-2 { 
+    /* background-color: rgba(144, 238, 144, 0.3);  */
+    font-weight: 700;
+    color: #237e95;
+}
+.hsk-level-3 { 
+    /* background-color: rgba(255, 255, 102, 0.3); */
+    font-weight: 700;
+    color: #ff7149;
+ }
+.hsk-level-4 { 
+    /* background-color: rgba(255, 165, 0, 0.3);  */
+    font-weight: 700;
+    color: #bb1617;
+}
+.hsk-level-5 { 
+    /* background-color: rgba(255, 99, 71, 0.3);  */
+    font-weight: 700;
+    color: #1257c7;
+} 
+.hsk-level-6 { 
+    /* background-color: rgba(186, 85, 211, 0.3);  */
+    font-weight: 700;
+    color: #c742c4;
+}
+
+
+
+.zh-hidden {
+	display: none;
+}
+.zh-visible {
+	display: block;
+}

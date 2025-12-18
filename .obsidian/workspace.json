@@ -4,41 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "f78eda30b516ea8a",
+        "id": "fe6641e2542f86de",
         "type": "tabs",
         "children": [
           {
-            "id": "3fca1bb665389434",
+            "id": "002392d7a325a36d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "programming/cpp/stdlib/endl.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "math/topology/topology.pdf",
+                "page": 163,
+                "left": -56,
+                "top": 448,
+                "zoom": 2
               },
-              "icon": "lucide-file",
-              "title": "endl"
+              "icon": "lucide-file-text",
+              "title": "topology"
             }
           },
           {
-            "id": "883ee673eeb3842e",
+            "id": "39f52f098cd71f04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/cpp/fundementals/initializations.md",
+                "file": "a-TEMPLATES/MATH/theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "initializations"
+              "title": "theorem"
+            }
+          },
+          {
+            "id": "38edc2d1ab824f27",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "gally/Untitled.canvas",
+                "viewState": {
+                  "x": 392.52762458342636,
+                  "y": 45.258625840631154,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,33 +81,6 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "2a7758795783c925",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#include",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "9fc3f84ed99290a3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
@@ -105,53 +96,6 @@
         "id": "66c796b62bd5cfa7",
         "type": "tabs",
         "children": [
-          {
-            "id": "c391b97dd1c511ec",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "00e5719c0ebce28a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pipelining.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Pipelining"
-            }
-          },
-          {
-            "id": "13deb078ddc13751",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
           {
             "id": "4f67cfb905181c00",
             "type": "leaf",
@@ -173,26 +117,41 @@
             }
           },
           {
-            "id": "f92d5d4558d04c97",
+            "id": "a10c9e92c9959106",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "101ab119623323fe",
+            "type": "leaf",
+            "state": {
+              "type": "vocab-sidebar",
+              "state": {},
+              "icon": "book-open",
+              "title": "Vocabulary"
+            }
+          },
+          {
+            "id": "465fef9693022635",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 464.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,48 +165,59 @@
       "workspaces:Manage workspace layouts": false,
       "callout-manager:Insert Callout": true,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "zhongwen-reader:Open Vocab Sidebar": false,
+      "copilot:Open Copilot Chat": true,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "daily-notes:Open today's daily note": true,
+      "periodic-notes:Open today": false,
+      "system3-relay:Relay": false
     }
   },
-  "active": "883ee673eeb3842e",
+  "active": "2d5d7b519f69dd47",
   "lastOpenFiles": [
+    "gally",
+    "Untitled.md",
+    "gally/Untitled.canvas",
+    "a-TEMPLATES/MATH/theorem.md",
+    "a-TEMPLATES/MATH/whate.md",
+    "a-TEMPLATES/MATH/conjecture.md",
+    "a-TEMPLATES/MATH/axiom.md",
+    "a-TEMPLATES/GENERIC/thing.md",
+    "a-TEMPLATES/GENERIC/phased concept.md",
+    "a-TEMPLATES/GENERIC/directory overview.md",
+    "a-TEMPLATES/GENERIC/concept.md",
+    "a-TEMPLATES/DAILY/daily.md",
+    "a-TEMPLATES/CODE/code snippet.md",
+    "a-DAILY/2025-12-17.md",
+    "a-SNIPPETS/config.md",
+    "math/topology/fundamentals/topological space.md",
+    "a-TEMPLATES/DAILY",
+    "a-DAILY",
+    "math/topology/topology.pdf",
+    "math/topology/connectedness-and-compactedness/separation.md",
+    "math/topology/fundamentals",
+    "math/topology/connectedness-and-compactedness/connectedness-and-compactedness.md",
+    "copilot/copilot-conversations/in_this_file_whats_the_most_beautiful_way_to_organize@20251217_015904.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "中/vocab.md",
+    "public-speaking/public-speaking.md",
+    "a-SNIPPETS/config",
+    "SNIPPETS/config~",
+    "SNIPPETS/config.md",
+    "a-SNIPPETS",
+    "math/topology/topology.md",
+    "math/topology/Topology.md",
+    "math/topology/connectedness-and-compactedness",
+    "books/Startup Notes.md",
+    "books/James R. Munkres Topology  Prentice Hall, Incorporated, 2000 by James R. Munkres (z-lib.org).md",
+    "books/attachments/Pasted image 20251217002335.png",
+    "Topology - James R Munkres.md",
     "programming/cpp/fundementals/attachments/Pasted image 20251213183027.png",
-    "programming/cpp/compiler/compile time constant.md",
-    "programming/cpp/compiler/gcc compiler options.md",
-    "programming/cpp/compiler/runtime constant.md",
-    "programming/cpp/compiler/warning levels.md",
-    "programming/architecture/spatial locality.md",
-    "programming/architecture/principle of locality.md",
-    "programming/architecture/temporal locality.md",
-    "programming/architecture/object file.md",
-    "programming/architecture/Iron Law (CPU Performance Eqn).md",
-    "programming/architecture/hit penalty.md",
-    "programming/architecture/Final notes.md",
-    "programming/architecture/data path.md",
-    "programming/architecture/compiler (cpp).md",
-    "programming/cpp/compiler/optimizations/dead code elimation.md",
-    "programming/cpp/compiler/optimizations/constant propagation.md",
-    "programming/cpp/compiler/optimizations/constant folding.md",
-    "programming/cpp/compiler/optimizations/as-if rule (compilers).md",
-    "programming/cpp/fundementals/initializations.md",
-    "programming/cpp/stdlib/containers/list and forward list.md",
-    "programming/cpp/stdlib/cin.md",
-    "programming/cpp/stdlib/cout.md",
-    "programming/cpp/stdlib/endl.md",
-    "Untitled 1",
-    "中/a-TEMPLATES/phased concept.md",
-    "中/a-TEMPLATES/concept.md",
-    "中/a-TEMPLATES/code snippet.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "math/Untitled",
-    "Untitled.canvas",
-    "Excalidraw",
-    "programming/cpp/stdlib/containers",
-    "history/china",
-    "a-TEMPLATES/CODE",
-    "a-TEMPLATES/GENERIC",
-    "math/a-TEMPLATES",
     "cpp/fundementals/attachments/Pasted image 20251213183027.png",
     "architecture/attachments/Pasted image 20251213175542.png",
     "architecture/attachments/Pasted image 20251213174433.png",
@@ -255,8 +225,6 @@
     "architecture/attachments/Pasted image 20250608215518.png",
     "architecture/attachments/Pasted image 20250402093521.png",
     "architecture/attachments/Pasted image 20250608212705.png",
-    "architecture/attachments/Pasted image 20250409094952.png",
-    "Pasted image 20251023233301.png",
-    "Pasted image 20251023234106.png"
+    "architecture/attachments/Pasted image 20250409094952.png"
   ]
 }

@@ -75,14 +75,6 @@
     }
   ],
   "text-snippets-obsidian:text-snippets": [],
-  "jelly-snippets:trigger-snippet": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "J"
-    }
-  ],
   "file-explorer:new-file": [
     {
       "modifiers": [
@@ -105,7 +97,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "/"
+      "key": "."
     }
   ],
   "editor:toggle-comments": [],
@@ -126,13 +118,88 @@
       "key": "'"
     }
   ],
+  "editor:delete-paragraph": [],
   "markdown:toggle-preview": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "."
+      "key": "R"
     }
   ],
-  "editor:delete-paragraph": []
+  "graph:open": [],
+  "folder-notes:create-folder-note-for-current-folder": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "folder-notes:create-folder-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "jelly-snippets:trigger-snippet": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ],
+  "workspace:goto-tab-5": []
 }

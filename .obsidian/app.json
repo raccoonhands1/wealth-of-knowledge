@@ -21,5 +21,6 @@
   "smartIndentList": false,
   "defaultViewMode": "source",
   "livePreview": true,
-  "vimMode": true
+  "vimMode": true,
+  "spellcheck": false
 }

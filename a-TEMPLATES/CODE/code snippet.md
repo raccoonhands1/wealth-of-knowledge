@@ -1,6 +1,7 @@
 ---
 tags: [snippet, cpp]
-created: {{date}}
+created: 
+  {{date}}
 ---
 > [!code]
 > 

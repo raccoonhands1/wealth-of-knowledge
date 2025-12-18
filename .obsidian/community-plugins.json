@@ -2,12 +2,21 @@
   "callout-manager",
   "callout-integrator",
   "math-in-callout",
-  "edit-in-neovim",
   "obsidian-hotkeys-for-templates",
   "jelly-snippets",
   "settings-profiles",
   "obsidian-excalidraw-plugin",
   "obsidian-spaced-repetition",
   "obsidian-latex-suite",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "folder-notes",
+  "zhongwen-block",
+  "zhongwen-reader",
+  "copilot",
+  "execute-code",
+  "obsidian-annotator",
+  "pdf-plus",
+  "periodic-notes",
+  "system3-relay",
+  "advanced-canvas"
 ]

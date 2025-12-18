@@ -9,7 +9,7 @@ created:
 > an optimization technique where the compiler removes code that may be executed but that has no affect on the observable output of the code
 
 > [!example]
-> ```
+> ```run-cpp
 > #include <iostream>
 > 
 > int main()
@@ -21,7 +21,7 @@ created:
 > }
 > ```
 > becomes 
-> ```
+> ```run-cpp
 > #include <iostream>
 > 
 > int main()

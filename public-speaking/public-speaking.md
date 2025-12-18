@@ -19,4 +19,3 @@ companies hire marketing managers for this specific task.
 A common approach is to cold message these influencers, but depending on the scale of your operation this might not be feasible
 or a necessarily good approch
 
-

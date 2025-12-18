@@ -10,3 +10,4 @@ created:
 > ```
 > \n + std::flush;
 > ```
+

@@ -12,7 +12,7 @@ created:
 > some optimizations for this technique will be difficult or impossible if const is not specified. Specify const! 
 
 > [!example]
-> ```
+> ```run-cpp
 > #include <iostream>
 > 
 > int main()
