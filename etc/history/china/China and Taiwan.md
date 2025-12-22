@@ -1,4 +1,4 @@
-There have been decades of political involvement from the US in the [[history/china/Taiwan Strait]]
+There have been decades of political involvement from the US in the [[Taiwan Strait]]
 
 Timeline of events:
 
