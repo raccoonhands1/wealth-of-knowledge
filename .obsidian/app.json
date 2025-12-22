@@ -22,5 +22,6 @@
   "defaultViewMode": "source",
   "livePreview": true,
   "vimMode": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "autoPairMarkdown": false
 }

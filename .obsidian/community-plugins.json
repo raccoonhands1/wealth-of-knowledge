@@ -17,6 +17,9 @@
   "obsidian-annotator",
   "pdf-plus",
   "periodic-notes",
-  "system3-relay",
-  "advanced-canvas"
+  "advanced-canvas",
+  "obsidian-list-callouts",
+  "hot-reload",
+  "sample-plugin",
+  "better-callouts"
 ]

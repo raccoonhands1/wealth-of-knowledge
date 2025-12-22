@@ -1,7 +1,9 @@
 ---
-tags: [snippet, cpp]
-created: 
-  {{date}}
+tags:
+  - snippet
+  - cpp
+created:
+  "{ date }":
 ---
 > [!code]
 > 

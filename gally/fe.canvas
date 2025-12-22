@@ -17,15 +17,26 @@
 			"type":"text",
 			"text":"# efe",
 			"styleAttributes":{
-				"border":null
+				"border":null,
+				"shape":"diamond"
 			},
-			"x":280,
-			"y":-90,
+			"x":160,
+			"y":-240,
 			"width":260,
 			"height":200
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"c2bcabcb6414c3e6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"14e13aa97efa2afd",
+			"fromSide":"right",
+			"toNode":"684bffa8677b44f5",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

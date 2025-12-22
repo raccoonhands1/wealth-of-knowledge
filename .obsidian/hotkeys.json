@@ -201,5 +201,21 @@
       "key": "5"
     }
   ],
-  "workspace:goto-tab-5": []
+  "workspace:goto-tab-5": [],
+  "system3-relay:reload": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "hot-reload:scan-for-changes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
 }
