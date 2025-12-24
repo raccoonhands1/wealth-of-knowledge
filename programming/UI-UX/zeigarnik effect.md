@@ -1,3 +1,11 @@
->[!definition] people often remember uncompleted or interrupted tasks more than completed ones
+---
+tags:
+  - concept
+created:
+  "{ date }":
+---
+> [!concept]
+> people often remember uncompleted or interrupted tasks more than completed ones
 
-[[UX]]
+> [!see]
+> [[UI-UX]]

@@ -3,7 +3,8 @@ tags:
 created:
   {{date}}
 ---
->[!concept]
+START [!concept]
+END
 
 > [!phases]
 > 1. 

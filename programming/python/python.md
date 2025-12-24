@@ -1,8 +1,10 @@
-> [!overview]
-> important terms:
-> * [[REPL]]
->
-> > [!note]
-> > important notes; interpreted, multithreaded, built on C
->
+START [!overview]
+important terms:
+* [[REPL]]
+
+  START [!note]
+  important notes; interpreted, multithreaded, built on C
+  END
+
+END
 

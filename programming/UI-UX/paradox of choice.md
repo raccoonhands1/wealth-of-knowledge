@@ -1,3 +1,11 @@
->[!definition] getting overwhelmed when presented with many options
+---
+tags:
+  - concept
+created:
+  "{ date }":
+---
+> [!concept]
+> getting overwhelmed when presented with many options
 
-[[UX]]
+> [!see]
+> [[UI-UX]]

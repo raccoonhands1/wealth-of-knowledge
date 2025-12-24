@@ -6,8 +6,3 @@ easy to learn, efficient, error tolerance, engagement, effective
 
 effective:
 	fixing a credit card field so that it only acceptns a valid credit card number
-
-
-
-
-

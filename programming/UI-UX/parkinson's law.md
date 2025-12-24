@@ -1,5 +1,14 @@
->[!definition]
->a task will inflate into its allocated time slot
+---
+tags:
+  - concept
+created:
+  "{ date }":
+---
+> [!concept]
+> a task will inflate into its allocated time slot
 >
 
-[[UX]]
+> [!see]
+> [[UI-UX]]
+
+

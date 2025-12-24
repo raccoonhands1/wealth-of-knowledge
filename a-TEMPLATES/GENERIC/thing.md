@@ -4,6 +4,7 @@ tags:
 created:
   "{ date }":
 ---
->[!definition]
->
+START [!definition]
+
+END
 

@@ -1,4 +1,4 @@
->[!tip] https://lawsofux.com/
+> [!tip] https://lawsofux.com/
 
 [[occums razor]]
 

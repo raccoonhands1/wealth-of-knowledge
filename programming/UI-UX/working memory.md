@@ -1,3 +1,12 @@
->[!definition] a cognitive system that temporarily holds and manipulates information needed to complete tasks.
+---
+tags:
+  - concept
+created:
+  "{ date }":
+---
+> [!concept]
+> a cognitive system that temporarily holds and manipulates information needed to complete tasks.
 
-[[UX]]
+> [!see]
+> [[UI-UX]]
+
