@@ -5,8 +5,9 @@ tags:
 created:
   "{ ? { date } }":
 ---
-> [!overview]
-> extension of [[algorithms]] and [[iterator]] libs by making making them composable. intended purpose is to represent iteratable sequences
+START [!overview]
+extension of [[algorithms]] and [[iterator]] libs by making making them composable. intended purpose is to represent iteratable sequences
+END
 
 > [!code]
 >

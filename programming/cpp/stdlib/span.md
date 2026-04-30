@@ -6,8 +6,8 @@ tags:
 created:
   "{ date }":
 ---
->[!definition]
->  a span is a method for referencing array OR vector data (good for generics) and doesn't need a size to be specified.
+> [!definition]
+> a span is a method for referencing array OR vector data (good for generics) and doesn't need a size to be specified.
 
 > [!example] 
 > this snippet is only valid with span
@@ -32,4 +32,8 @@ created:
 >  }
 >  ```
 >  
+
+> [!see]
+> [[mdspan]]
+
 

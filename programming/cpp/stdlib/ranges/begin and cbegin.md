@@ -6,8 +6,9 @@ tags:
 created:
   {{date}}:
 ---
-> [!overview]
-> return an iterator to the first element (or const qualified argument in cbegin's case)
+START [!overview]
+return an iterator to the first element (or const qualified argument in cbegin's case)
+END
 
 > [!important]
 > using * on an iterator type will return the value that its pointing to. The iterator is just a pointer!

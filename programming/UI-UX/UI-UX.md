@@ -1,4 +1,5 @@
-> [!tip] https://lawsofux.com/
+START [!tip] https://lawsofux.com/
+END
 
 [[occums razor]]
 

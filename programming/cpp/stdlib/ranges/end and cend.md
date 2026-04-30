@@ -6,8 +6,9 @@ tags:
 created:
   "{ ? { date } }":
 ---
-> [!overview]
-> similar to [[begin and cbegin]] but used for a different utility
+START [!overview]
+similar to [[begin and cbegin]] but used for a different utility
+END
 
 > [!code]
 > ``` run-cpp

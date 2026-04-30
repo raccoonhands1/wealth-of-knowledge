@@ -5,13 +5,8 @@ tags:
 created:
   {{date}}
 ---
->[!definition]
+> [!definition]
 
 > [!example]
-
-``` zh-cn
-我要
-```
-
-
-中文很好
+> ```zh-cn
+> ```

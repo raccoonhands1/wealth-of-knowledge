@@ -4,8 +4,9 @@ tags:
 created:
   "{ date }":
 ---
-> [!concept]
-> in a series of elements, the first and last are remembered at a higher level than any elements within the middle
+START [!concept]
+in a series of elements, the first and last are remembered at a higher level than any elements within the middle
+END
 
 > [!see]
 > [[UI-UX]]

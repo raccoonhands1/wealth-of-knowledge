@@ -4,7 +4,7 @@ tags:
 created:
   "{ date }":
 ---
->[!concept]
+> [!concept]
 > A topological space is considered **disconnected** (or **separated**) if it can be broken into two "globs" (disjoint non-empty open sets whose union is the space). Otherwise, it is **connected**.
 >
 

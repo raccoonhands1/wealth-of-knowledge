@@ -11,7 +11,8 @@
       "theorem",
       "conjecture",
       "axiom",
-      "goals"
+      "goals",
+      "cli"
     ],
     "settings": {
       "definition": [
@@ -161,6 +162,14 @@
           "changes": {
             "icon": "lucide-list",
             "color": "227, 107, 167"
+          }
+        }
+      ],
+      "cli": [
+        {
+          "changes": {
+            "icon": "lucide-app-window-mac",
+            "color": "233, 151, 63"
           }
         }
       ]

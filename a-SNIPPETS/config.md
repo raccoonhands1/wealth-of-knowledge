@@ -1,8 +1,16 @@
  [
-    // Math mode
+  
+	// enter latex block and quick format
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
+	{trigger: "gbeg", replacement: "\\begin{gather}\n$0$1\n\\end{gather}", options: "mA"},
+	{trigger: "abeg", replacement: "\\begin{align}\n$0$1\n\\end{align}", options: "mA"},
+
+
+	// line breaks
+	{trigger: "bn", replacement: "\\\\[32pt]\n", options: "mA"},
+	{trigger: "nn", replacement: "\\\\[6pt]\n", options: "mA"},
 
     // Dashes
 	// {trigger: "--", replacement: "–", options: "tA"},
@@ -114,6 +122,7 @@
     {trigger: "**", replacement: "\\cdot", options: "mA"},
     {trigger: "para", replacement: "\\parallel", options: "mA"},
 
+	{trigger: "ae", replacement: "&=", options: "mA"},
 	{trigger: "===", replacement: "\\equiv", options: "mA"},
     {trigger: "!=", replacement: "\\neq", options: "mA"},
 	{trigger: ">=", replacement: "\\geq", options: "mA"},
@@ -184,6 +193,9 @@
     {trigger: "iiint", replacement: "\\iiint", options: "mA"},
     {trigger: "oinf", replacement: "\\int_{0}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
 	{trigger: "infi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
+	{trigger: "pri", replacement: "^\\prime", options: "mA"},
+	{trigger: "dpri", replacement: "^{\\prime\\prime}", options: "mA"},
+
 
 
     // Trigonometry

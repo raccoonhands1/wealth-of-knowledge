@@ -4,8 +4,9 @@ tags:
 created:
   "{ date }":
 ---
-> [!concept]
-> getting overwhelmed when presented with many options
+START [!concept]
+getting overwhelmed when presented with many options
+END
 
 > [!see]
 > [[UI-UX]]

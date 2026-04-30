@@ -1,24 +1,3 @@
-
-
-
-$$
-
-
-
-
-
-
-
-
-
-
-
-$$
-
-
-
-
-
 一样-- instead of zenmeyang, you should think of it like "same/ alike"
 
 还--able to be in addition to
@@ -58,6 +37,7 @@ $$
 怕怕--scared--pa\pa\
 懂--understand--dongV
 胆小鬼--coward--danVxiaoVguiV
+
 厉害--sharp--li\hai\
 你好厉害--you are awesome--li\hao\
 答应-- promise -- da_ying\
@@ -86,4 +66,6 @@ $$
 同事--colleague -- tong/shi\
 老大-- boss 
 上的怎么样老大-- how's it going there boss?
-顺畅-- smoothly -- shun\chang\
+顺畅-- smoothly -- shun\chang\A
+
+接过， 挂断， 封锁， 报警

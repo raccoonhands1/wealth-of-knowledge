@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0f12b30e87703051",
+        "id": "972eb1799e32e8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "d96a9838d7166559",
+            "id": "9105a7b4b8c3a6d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "math/discrete-math/homework/hw3 (101M).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "99e07a49ce032355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "temp"
-            }
-          },
-          {
-            "id": "cdf83ab7c31c40c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中/vocab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "vocab"
-            }
-          },
-          {
-            "id": "fee6f3bed83765d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/UI-UX/UI-UX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "UI-UX"
+              "title": "hw3 (101M)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5,
+    "width": 231.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,57 +154,58 @@
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
+      "homepage:Open homepage": true,
       "periodic-notes:Open today": false
     }
   },
-  "active": "cdf83ab7c31c40c4",
+  "active": "9105a7b4b8c3a6d7",
   "lastOpenFiles": [
-    "temp.md",
-    "中/vocab.md",
-    "中/中.md",
-    "a-DAILY/2025-12-24.md",
-    "a-DAILY/2025-12-23.md",
-    "a-DAILY/2025-12-22.md",
-    "README.md",
-    "programming/UI-UX/jakobs law.md",
-    "excalidraw/Drawing 2025-12-23 20.31.35.excalidraw.md",
-    "ideas-gallery/untitled horror game.md",
-    "programming/cpp/fundementals/initializations.md",
-    "programming/UI-UX/UI-UX.md",
-    "programming/UI-UX/doherty threshold.md",
-    "programming/UI-UX/apple_design.md",
-    "a-TEMPLATES/GENERIC/concept.md",
-    "a-TEMPLATES/GENERIC/Untitled.md",
-    "a-TEMPLATES/GENERIC/thing.md",
-    "a-TEMPLATES/GENERIC/directory overview.md",
-    "a-TEMPLATES/GENERIC/phased concept.md",
-    "programming/UI-UX/zeigarnik effect.md",
-    "programming/UI-UX/working memory.md",
-    "programming/UI-UX/von restorff effect.md",
-    "programming/UI-UX/serial position effect.md",
-    "programming/UI-UX/peak end rule.md",
-    "programming/UI-UX/parkinson's law.md",
-    "programming/UI-UX/paradox of choice.md",
-    "ideas-gallery",
-    "excalidraw",
-    "Excalidraw",
-    "programming/z-scratch",
-    "etc",
-    "programming/python",
+    "math/discrete-math/addition and subtraction principle.md",
+    "math/discrete-math/homework/hw3 (101M).md",
+    "math/discrete-math/homework",
+    "programming/pl/tail recursion.md",
+    "programming/pl/unit tests in elsa PL.md",
+    "home.md",
+    "math/diff eqns and boundary problems/hw3.md",
+    "math/diff eqns and boundary problems/attachments/Pasted image 20260428220644.png",
+    "math/diff eqns and boundary problems/attachments/Pasted image 20260428220334.png",
+    "math/diff eqns and boundary problems/attachments/Pasted image 20260428220041.png",
+    "math/diff eqns and boundary problems/attachments",
+    "a-SNIPPETS/config.md",
+    "math/diff eqns and boundary problems/2/existence and uniqueness theorem for first-order nonlinear equations.md",
+    "math/diff eqns and boundary problems/2/existence and uniqueness theorem for first-order differential equations.md",
+    "math/diff eqns and boundary problems/2",
+    "math/diff eqns and boundary problems/3/linear homogenous with const coefficients.md",
+    "math/diff eqns and boundary problems/initial condition.md",
+    "math/diff eqns and boundary problems/3",
+    "Untitled",
+    "Untitled.md",
+    "math/diff eqns and boundary problems",
     "math/topology/topology.pdf",
-    "programming/cpp/stdlib/range/Untitled",
-    "programming/cpp/stdlib/ranges",
+    "math/topology/topology.md",
+    "programming/pl/y combinator.md",
+    "programming/pl/omega.md",
+    "programming/pl/lambda calculus.md",
+    "programming/pl/free and closed expressions.md",
+    "programming/pl/variable scope.md",
+    "programming/pl/binding.md",
+    "programming/pl/history.md",
+    "programming/pl/currying.md",
+    "programming/pl/beta =b> rule (substitution rule).md",
+    "programming/pl/redex.md",
+    "programming/pl/identity function.md",
+    "programming/nestjs/query parameter.md",
+    "README.md",
+    "programming/pl",
+    "programming/computer-systems",
+    "books/chinese/IC2.pdf",
     "gally/fe.canvas",
-    "gally",
     "books/attachments/Pasted image 20251217002335.png",
     "programming/cpp/fundementals/attachments/Pasted image 20251213183027.png",
     "cpp/fundementals/attachments/Pasted image 20251213183027.png",
     "architecture/attachments/Pasted image 20251213175542.png",
     "architecture/attachments/Pasted image 20251213174433.png",
     "ml/attachments/Pasted image 20250410131555.png",
-    "architecture/attachments/Pasted image 20250608215518.png",
-    "architecture/attachments/Pasted image 20250402093521.png",
-    "architecture/attachments/Pasted image 20250608212705.png",
-    "architecture/attachments/Pasted image 20250409094952.png"
+    "architecture/attachments/Pasted image 20250608215518.png"
   ]
 }
