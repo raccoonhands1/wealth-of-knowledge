@@ -12,7 +12,8 @@
       "conjecture",
       "axiom",
       "goals",
-      "cli"
+      "cli",
+      "derivation"
     ],
     "settings": {
       "definition": [
@@ -170,6 +171,14 @@
           "changes": {
             "icon": "lucide-app-window-mac",
             "color": "233, 151, 63"
+          }
+        }
+      ],
+      "derivation": [
+        {
+          "changes": {
+            "icon": "lucide-anchor",
+            "color": "68, 207, 110"
           }
         }
       ]

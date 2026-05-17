@@ -3,8 +3,9 @@ tags:
   - concept
 created: 2026-04-28
 ---
-> [!concept]
-> when you have two [[initial condition]]s
+START [!concept]
+when you have two [[initial condition]]s
+END
 
 > [!example]
 > $$
@@ -14,5 +15,6 @@ created: 2026-04-28
 > \left\{\right\}
 > $$
 
-> [!phases]
-> 1.
+START [!phases]
+1.
+END

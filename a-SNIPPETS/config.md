@@ -34,6 +34,7 @@
 	{trigger: "@k", replacement: "\\kappa", options: "mA"},
 	{trigger: "@l", replacement: "\\lambda", options: "mA"},
 	{trigger: "@L", replacement: "\\Lambda", options: "mA"},
+	{trigger: "@m", replacement: "\\mu", options: "mA"},
 	{trigger: "@s", replacement: "\\sigma", options: "mA"},
 	{trigger: "@S", replacement: "\\Sigma", options: "mA"},
 	{trigger: "@u", replacement: "\\upsilon", options: "mA"},
