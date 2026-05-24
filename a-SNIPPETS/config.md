@@ -1,5 +1,9 @@
  [
-  
+	
+	// Text visual operations
+	{trigger: "::c", replacement: "START [!${VISUAL}]\n> \n> ", options: "tAw"},
+	{trigger: "::code", replacement: "```\n${VISUAL}\n```", options: "tAw"},
+	
 	// enter latex block and quick format
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
@@ -218,6 +222,7 @@
 	{trigger: "C", replacement: "\\cancel{ ${VISUAL} }", options: "mA"},
 	{trigger: "K", replacement: "\\cancelto{ $0 }{ ${VISUAL} }", options: "mA"},
 	{trigger: "S", replacement: "\\sqrt{ ${VISUAL} }", options: "mA"},
+
 
 
     // Physics
